@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/OdonHenrique">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=OdonHenrique&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="306em" src="https://github-readme-stats.vercel.app/api?username=OdonHenrique&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdonHenrique&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
